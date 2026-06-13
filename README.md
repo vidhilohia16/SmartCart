@@ -1,5 +1,5 @@
 # 🛒 SmartCart Customer Segmentation System
-# Unsupervised Machine Learning | K-Means Clustering
+## Unsupervised Machine Learning 
 
 A customer segmentation system that analyzes 2,240 e-commerce 
 customer records to discover hidden behavioural patterns using 
