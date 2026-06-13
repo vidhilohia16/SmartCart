@@ -36,13 +36,13 @@ and churn identification.
 
 ## 🚀 Getting Started
 
-# Clone the repo
+## Clone the repo
 git clone https://github.com/vidhilohia16/SmartCart-Clustering
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Launch notebook
+## Launch notebook
 jupyter notebook smartcart_clustering.ipynb
 
 
