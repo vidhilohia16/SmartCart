@@ -1,4 +1,4 @@
-# 🛒 SmartCart Customer Segmentation System
+# SmartCart Customer Segmentation System
 ## Unsupervised Machine Learning 
 
 A customer segmentation system that analyzes 2,240 e-commerce 
@@ -7,13 +7,13 @@ unsupervised machine learning — enabling targeted marketing
 and churn identification.
 
 
-## 📊 Dataset
+##  Dataset
 - 2,240 customer records, 22 features
 - Includes demographics, purchase behaviour, 
   website activity, and campaign response
 
 
-## 🔧 ML Pipeline
+##  ML Pipeline
 
 | Preprocessing | Missing values, outlier treatment |
 | Feature Engineering | Encoding, scaling |
@@ -25,29 +25,13 @@ and churn identification.
 
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python, Jupyter Notebook
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
 
-
-
-## 🚀 Getting Started
-
-## Clone the repo
-git clone https://github.com/vidhilohia16/SmartCart-Clustering
-
-## Install dependencies
-pip install -r requirements.txt
-
-## Launch notebook
-jupyter notebook smartcart_clustering.ipynb
-
-
-
-## 👩‍💻 Author
 Vidhi Lohia
 [LinkedIn](https://www.linkedin.com/in/vidhi-lohia1/) | 
 [GitHub](https://github.com/vidhilohia16)
